@@ -8,6 +8,6 @@ About 30% of all existing students have a unique name.
 ## Only for St Andrews users
 [All the first and last names ranked by popularity](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EUmG7H6XL01MvTgRwPJ2BQ0BEAcPynqvXwHROL_S3IWTPg?e=oqRxzP)
 
-[All the users at St Andrews](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EQs6QBtazUtMjPia0E-DmSIBcbnXxF1NCzbxOD2q2vbTJA?e=DFdmdV)
+[All the users at St Andrews](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EcDdwTgLju1BpB9oYyaAn0UBPJIYI0A7HFZE9hPxDOmhqQ?e=hLNzYP)
 
 For privacy reasons, these links are only available to users who have a University of St Andrews account. You will be asked to log in with your university ID.
