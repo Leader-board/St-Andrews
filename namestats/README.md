@@ -5,7 +5,7 @@ Note that students who are in a Leave of Absence are usually included in the lis
 ## Publicly available
 The top 50 first and last names amongst the students at the university.
 ## Only for St Andrews users
-[All the first and last names ranked by popularity](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EcDdwTgLju1BpB9oYyaAn0UBPJIYI0A7HFZE9hPxDOmhqQ?e=xnShnv)
+[All the first and last names ranked by popularity](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EUmG7H6XL01MvTgRwPJ2BQ0BEAcPynqvXwHROL_S3IWTPg?e=oqRxzP)
 
 [All the users at St Andrews](https://universityofstandrews907-my.sharepoint.com/:x:/g/personal/dm282_st-andrews_ac_uk/EQs6QBtazUtMjPia0E-DmSIBcbnXxF1NCzbxOD2q2vbTJA?e=DFdmdV)
 
