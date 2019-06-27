@@ -9,5 +9,6 @@ This section contains the St Andrews graduation videos (only this diet - June 20
 
 Please check [here](https://www.st-andrews.ac.uk/graduation/graduation-ceremonies/) to find out students studying which subject graduate at a particular time.
 
+* [Tuesday afternoon - 25/06/19](https://universityofstandrews907-my.sharepoint.com/:v:/g/personal/dm282_st-andrews_ac_uk/EaVZSwLaREROtUMMvCnkUQMBTOKEgRSY3kPByzhHhluibQ?e=sZfrpV)
 * [Wednesday morning - 26/09/19](https://universityofstandrews907-my.sharepoint.com/:v:/g/personal/dm282_st-andrews_ac_uk/ETtxQv80qCVJtI1rEjmfxZ4B2AW8GzxgoowMin_1qXt13w?e=hx5NCK)
 * [Wednesday afternoon - 26/06/19](https://universityofstandrews907-my.sharepoint.com/:v:/g/personal/dm282_st-andrews_ac_uk/EWbMDSLxNQdBm5yQh0QFXiABb95YOth6GCIlNY3RoZ8fTw?e=YpDEh3)
