@@ -1,6 +1,8 @@
 # St Andrews graduation videos
 This section contains the St Andrews graduation videos (for the June and December 2019 diets) that I have saved so that you can watch it again or download it later (as St Andrews takes down the stream shortly after).
 
+The videos for the June 2020 diets will be available shortly, but it should be noted that they are still viewable from the St Andrews webpage.
+
 ##  Important notes
 
  1. These videos are only meant to be used by St Andrews users and friends and I have done so in good faith. In particular, these videos are published in accordance with St Andrews' [licensing policy](https://www.st-andrews.ac.uk/graduation/watch-live/) - no commercial users please. Please do not re-upload these videos into public sites like YouTube.
