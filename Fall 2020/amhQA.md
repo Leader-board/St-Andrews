@@ -1,8 +1,8 @@
-Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.**
+Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know.
 
 ## If we order something during quarantine will it be delivered to our room?
 
-They’re definitely delivering food to rooms. I think they will be delivering to rooms but am not 100% sure yet. They’re still trying to work out a system. (9/8)
+They’re definitely delivering food to rooms. I think they will be delivering (other items) to rooms but am not 100% sure yet. They’re still trying to work out a system. (9/8)
 
 ## Are rugs allowed in the rooms?
 
