@@ -1,4 +1,4 @@
-Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. Don't take this as gospel rather than helpful advice as there is no guarantee that these answers are accurate.
+Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.**
 
 ## If we order something during quarantine will it be delivered to our room?
 
