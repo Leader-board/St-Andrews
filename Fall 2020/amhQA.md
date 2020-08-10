@@ -1,4 +1,20 @@
-Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know.
+Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
+
+## Is the TV license charged to your student account through St.A’s or paid for in person upon arrival? Who do you speak to about purchasing a TV license? 
+
+TV licensing is a national thing and not just for St Andrews so payment for TV license is not done through the university, whether that's online or in person. If you're bringing a TV or you'll be using BBC iPlayer etc, you can buy your TV license at https://www.tvlicensing.co.uk/
+
+## Guests aren't allowed overnight at the start of the semester. When in the year will they be allowed?
+
+We don't know that as of now. It will depend on how the year pans out but personally, I see it being unlikely during first semester. But you never know.
+
+## During quarantine, will there be an allotted time to have daily, outdoor, individual exercise? 
+
+Unfortunately not.
+
+## I would like to order my bedding from Amazon so that it will be waiting for me upon arrival. If I take this route, will Melville hold my package if it arrives before I do the day I’m moving in?
+
+Yes, you can order bedding but you should try to get it to arrive as soon before you arrive as possible, preferably on the same day.
 
 ## If we order something during quarantine will it be delivered to our room?
 
