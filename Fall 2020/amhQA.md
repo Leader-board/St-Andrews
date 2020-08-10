@@ -1,5 +1,9 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## How are meals going to work at AMH next semester? Please tell me it's not going to be like when lockdown first happened!! It was terrible!!
+
+At the moment the plan is extended meal times with all the tables separated so people can socially distance during mealtimes. Estates are still assessing capacities so theres still uncertainty on how distancing will work/ how many people are allowed in the dining hall at any one time.
+
 ## Is the TV license charged to your student account through St.A’s or paid for in person upon arrival? Who do you speak to about purchasing a TV license? 
 
 TV licensing is a national thing and not just for St Andrews so payment for TV license is not done through the university, whether that's online or in person. If you're bringing a TV or you'll be using BBC iPlayer etc, you can buy your TV license at https://www.tvlicensing.co.uk/
