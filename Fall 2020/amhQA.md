@@ -1,5 +1,9 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## Hey! My flight is very late in the evening and I think I'll be in Melville past midnight. What should I do to be able to get in?
+
+Message here and if someone is in melville and they're up, they'll let you in. If not, call the wardens on 01334467077. If you've booked the free airport transport the uni is offering, they might put something in place for you though (they should let the residence staff or the wardens know. If you already have your matric card, that should let you in too).
+
 ## When does catering start please?
 
 It used to be 5th but it's been changed to 31st.
