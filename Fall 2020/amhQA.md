@@ -1,5 +1,17 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## When does catering start please?
+
+It used to be 5th but it's been changed to 31st.
+
+### Does this mean regular catering or the special catering for those of us in quarantine from the 5th?
+
+Regular catering, quarantining student will be catered from the day they come in.
+
+## Do our matrix cards still unlock melville and our rooms if our room has changed?
+
+No.
+
 ## How are meals going to work at AMH next semester? Please tell me it's not going to be like when lockdown first happened!! It was terrible!!
 
 At the moment the plan is extended meal times with all the tables separated so people can socially distance during mealtimes. Estates are still assessing capacities so theres still uncertainty on how distancing will work/ how many people are allowed in the dining hall at any one time.
