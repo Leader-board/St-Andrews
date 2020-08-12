@@ -10,7 +10,7 @@ Please please try not to get locked out in those 2 weeks, put a big sign up on y
 
 ## How do I change my arrival slot?? Do I email or is there an online portal
 
->> If you have already completed your e-induction you can now go back in and select a date and time slot. If you select an arrival slot between 31st August to 5th September there is no additional charge. We strongly advise against making any firm travel arrangements before booking your arrival date and time. 
+> If you have already completed your e-induction you can now go back in and select a date and time slot. If you select an arrival slot between 31st August to 5th September there is no additional charge. We strongly advise against making any firm travel arrangements before booking your arrival date and time. 
 
 That's what it said in an email about selecting a slot on the accomodation portal but if that's only for selecting and you are unable to change your slot then email studacc@. (I chose a slot but then I chose a different time for the free pickup from the station (because I couldn’t do the first slot) and they said this changed the slot automatically.) Yeah, if you've book the free uni transport, they will change a slot for you themselves depending on what they've arranged
 
