@@ -1,5 +1,9 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## See to park my car in the big car park at the bottom of Andrew Melville do i need a parking permit/to pay/ free of charge?
+
+You can apply for free student permits after matriculation.
+
 ## Will people who live in 2 different households in Melville allowed to be in each others room? Eg if my friend lives in a different block and household, will they be able to hang out in my room with me or only members of the same household?
 
 No, to hang out with people from a different household, you have to be socially distant which is not possible in the bedrooms.
@@ -111,4 +115,3 @@ There are 3 larger kitchens (one is almost twice as large as the other 2) for ev
 ## How many people share bathrooms?
 
 It's 2 between 8 people, single sex. How often are they cleaned - Last year it was every weekday.
-
