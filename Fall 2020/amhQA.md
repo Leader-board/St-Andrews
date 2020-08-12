@@ -2,7 +2,7 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 
 ## See to park my car in the big car park at the bottom of Andrew Melville do i need a parking permit/to pay/ free of charge?
 
-You can apply for free student permits after matriculation.
+You can apply for free student permits after matriculation (https://www.st-andrews.ac.uk/environment/sustainabletravel/travellingbycar/studentcars).
 
 ## Will people who live in 2 different households in Melville allowed to be in each others room? Eg if my friend lives in a different block and household, will they be able to hang out in my room with me or only members of the same household?
 
