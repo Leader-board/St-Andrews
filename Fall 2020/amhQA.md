@@ -14,6 +14,8 @@ Please please try not to get locked out in those 2 weeks, put a big sign up on y
 
 That's what it said in an email about selecting a slot on the accomodation portal but if that's only for selecting and you are unable to change your slot then email studacc@. (I chose a slot but then I chose a different time for the free pickup from the station (because I couldn’t do the first slot) and they said this changed the slot automatically.) Yeah, if you've book the free uni transport, they will change a slot for you themselves depending on what they've arranged
 
+**I booked a slot because I thought I had to and now need to change it** If you are unable to do so in the prearrival section of the accommodation portal then email studacc@.
+
 ## Hey! My flight is very late in the evening and I think I'll be in Melville past midnight. What should I do to be able to get in?
 
 Message here and if someone is in melville and they're up, they'll let you in. If not, call the wardens on 01334467077. If you've booked the free airport transport the uni is offering, they might put something in place for you though (they should let the residence staff or the wardens know. If you already have your matric card, that should let you in too).
