@@ -1,5 +1,9 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## Will people who live in 2 different households in Melville allowed to be in each others room? Eg if my friend lives in a different block and household, will they be able to hang out in my room with me or only members of the same household?
+
+No, to hang out with people from a different household, you have to be socially distant which is not possible in the bedrooms.
+
 ## Will friends that don't live in Melville be allowed to come into the building during the semester if they're wearing a mask, etc. or will this not be allowed?
 
 We're not 100% sure but they probably won't be allowed into the building. You can still meet outside though, so that's probably best
