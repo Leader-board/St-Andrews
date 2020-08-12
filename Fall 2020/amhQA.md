@@ -1,5 +1,9 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## Will RBS be providing kettles in rooms during quarantine like ABH did?
+
+Unfortunately not.
+
 ## See to park my car in the big car park at the bottom of Andrew Melville do i need a parking permit/to pay/ free of charge?
 
 You can apply for free student permits after matriculation (https://www.st-andrews.ac.uk/environment/sustainabletravel/travellingbycar/studentcars).
