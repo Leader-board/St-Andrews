@@ -1,5 +1,19 @@
 Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
 
+## Will friends that don't live in Melville be allowed to come into the building during the semester if they're wearing a mask, etc. or will this not be allowed?
+
+We're not 100% sure but they probably won't be allowed into the building. You can still meet outside though, so that's probably best
+
+## What happens if you get locked out during quarantine?
+
+Please please try not to get locked out in those 2 weeks, put a big sign up on your door reminding you to remember your matric card etc or double tap your door during the day (if you're comfortable with that) so that it doesn't automatically lock itself. Just be really careful to not lock yourself out. If you do lock yourself out, if it's during the day, message here and someone will send the porter/maintenance staff up and if it's in the evening, save the warden's number on your phone and call them or if you don't have their number, message here and someone will send it in.
+
+## How do I change my arrival slot?? Do I email or is there an online portal
+
+>> If you have already completed your e-induction you can now go back in and select a date and time slot. If you select an arrival slot between 31st August to 5th September there is no additional charge. We strongly advise against making any firm travel arrangements before booking your arrival date and time. 
+
+That's what it said in an email about selecting a slot on the accomodation portal but if that's only for selecting and you are unable to change your slot then email studacc@. (I chose a slot but then I chose a different time for the free pickup from the station (because I couldn’t do the first slot) and they said this changed the slot automatically.) Yeah, if you've book the free uni transport, they will change a slot for you themselves depending on what they've arranged
+
 ## Hey! My flight is very late in the evening and I think I'll be in Melville past midnight. What should I do to be able to get in?
 
 Message here and if someone is in melville and they're up, they'll let you in. If not, call the wardens on 01334467077. If you've booked the free airport transport the uni is offering, they might put something in place for you though (they should let the residence staff or the wardens know. If you already have your matric card, that should let you in too).
