@@ -6,6 +6,9 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
 
 ---
+## Will we know our roommate before we arrive?
+
+If both of you choose to update your room number on here, you will automatically find or you can ask "is anyone in room X" on here too.
 
 ## Will RBS be providing kettles in rooms during quarantine like ABH did?
 
