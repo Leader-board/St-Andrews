@@ -6,6 +6,26 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
 
 ---
+## Hi can someone explain what the letter at the beginning of the room number means.. if it even has significance
+
+It’s the block. There are five blocks in melville. As you walk in A and B block are to your left and C D and E block are to your right when coming through the main entrance. The first number after the letter is also your floor number. 3 is ground floor in melville. Highest level is 7. Hopefully it all becomes clear when you enter.
+
+**Wait, are 1 and 2 in the basement then?** One and two are still above ground due to the fact the entrance steps are elevated upwards. You go downstairs but they’re still on ground level at the lowest (Melville is on a hill). The floor with all the windows is floor 3, which you go up stairs to enter. Below that are floors 1 and 2.
+
+## Are small portable/handheld fans that can be placed on desks allowed? (the charging cable has a USB port)
+
+Yes, as long as it passes the pat test at the start of the semester.
+
+## This may be a dumb question but what’s the pat test?
+
+It's just a test they do on all your personal electrical items (phone chargers, laptop chargers, hairdryers etc) to make sure they're safe for use in halls. 
+
+**Do you guys know if we’re allowed adapters bought in the UK?** Yes, the main criterion is the 3-pin adaptor (+ it should be earthed). If your laptop is from the US (like mine) or one that does not use a 3-pin adaptor, you should try to get one that's three pin. It's fine to change the heads with a different one, however, you cannot circumvent by using a extension cord/travel adaptor - they'll take the entire charger away.
+
+## When are we supposed to get our room number?
+
+A lot of people who have received their accomodation offer has received their room numbers. You can check on my Saint > details and development > Student Finance > bank letter.
+
 ## Will we know our roommate before we arrive?
 
 If both of you choose to update your room number on here, you will automatically find or you can ask "is anyone in room X" on here too.
