@@ -1,4 +1,11 @@
-Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. **You should treat this as  helpful advice as there is no guarantee that these answers are accurate.** Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
+Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be helpful for everyone. All rights reserved to the original contributors. Answers below are generally unedited other than where required for grammar and such. If you need attribution let me know. Use CRTL+F to search.
+
+---
+**IMPORTANT**
+
+Please treat this as helpful advice. There is no guarantee that the information would be accurate especially given that information here can change at any time. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!
+
+---
 
 ## Will RBS be providing kettles in rooms during quarantine like ABH did?
 
