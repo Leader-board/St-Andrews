@@ -6,6 +6,16 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
 
 ---
+## Hey! If we order things online, what do we put as the address? Do we include our room number? and how does that work? Is there a mail room?
+
+Yeah you need to include your room number when you order online. There’s a table for mail that doesn’t need signing for and if it needs signing for you can collect it from reception. And the address is
+
+>Andrew Melville <br>
+>North Haugh <br>
+>St Andrews <br>
+>Fife <br>
+>KY16 9SU
+
 ## Hi can someone explain what the letter at the beginning of the room number means.. if it even has significance
 
 It’s the block. There are five blocks in melville. As you walk in A and B block are to your left and C D and E block are to your right when coming through the main entrance. The first number after the letter is also your floor number. 3 is ground floor in melville. Highest level is 7. Hopefully it all becomes clear when you enter.
