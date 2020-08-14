@@ -6,6 +6,10 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
 
 ---
+## Can we have things delivered to hall before we arrive? If not, is there somewhere we can have things delivered?
+
+Yes, as long as it arrives as close to your arrival as possible, preferably on the same day as your arrival. Please be considerate and don't order something to arrive like a week before you do. There is also an Amazon locker next to ABH, which is the hall next to ours, which will keep your Amazon parcels for 3 days, I believe.
+
 ## Hey! If we order things online, what do we put as the address? Do we include our room number? and how does that work? Is there a mail room?
 
 Yeah you need to include your room number when you order online. There’s a table for mail that doesn’t need signing for and if it needs signing for you can collect it from reception. And the address is
