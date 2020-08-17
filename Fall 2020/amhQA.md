@@ -6,6 +6,36 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
 
 ---
+## I’ve been trying to look for some kind of map to see where the rooms/ blocks are but can’t find anything!
+
+![Floors 1 and 2](../../assets/amhQA1.jpg)
+
+![Floors 3 and 4](../../assets/amhQA2.jpg)
+
+![Floors 5, 6 and 2](../../assets/amhQA3.jpg)
+
+If you take an image of the building, the blocks go left to right, with A and B to the left of the entrance and C, D and E to the right. A block is boys only and d block is girls only, all the floors are single gender. There is one large and 2 smaller common rooms in hall. Also, there's no link between the blocks on all the floors, you have to go up/down to the main concourse and travel across. Floor 3 is the main concourse, both the outdoor entrances, common rooms, dining rooms, study rooms etc all lead on from there. The common room is separated from the wings so you need to come down to 3 and go back up the stairs, same for the dining room.
+
+**Do the blocks have separate entrances and common rooms?** The blocks each have an entrance through the main corridor, if you mean in terms of outdoor entrances no they don’t. 
+
+**Does level 4 have an actual bar?** It gets used quite often for free bars, but we don’t have a license.
+
+## Does anyone know if we're allowed a clothes horse/airer in our room or do we need to use the tumble dryers?
+
+Not in your room, but there is a drying room where you can leave your stuff on a clothes airer.
+
+## What’s the size of the pin board in the rooms?
+
+I believe it’s something around 100x150 cm? Not 100% sure though!
+
+## Hey, how do you know if you’re going to get a room with a small double or one of the rooms with the single bed?
+
+I think there are only two rooms with single beds (At least C714 is).
+
+## Do we know if there will be printers in the computer rooms?
+
+There is a printer there, yes!
+
 ## Can we have things delivered to hall before we arrive? If not, is there somewhere we can have things delivered?
 
 Yes, as long as it arrives as close to your arrival as possible, preferably on the same day as your arrival. Please be considerate and don't order something to arrive like a week before you do. There is also an Amazon locker next to ABH, which is the hall next to ours, which will keep your Amazon parcels for 3 days, I believe.
