@@ -166,9 +166,9 @@ The communal kitchens have kettles where you can make coffee and the dining hall
 
 Yes there are.
 
-## Do we know if melvil will be open over xmas break? for people who can't go home
+## Will Melville be open over Christmas break for people who can't get home?
 
-Dra whithorn and abh will be open like it was during lockdown. However you will have to pay extra to stay over Christmas unfortunately. Its usually open over christmas you can apply in November for christmas accommodation.
+You can apply in November for Christmas accomodation but you have to pay extra to stay in Melville over Christmas.
 
 ## storage space in Rooms
 
