@@ -8,11 +8,11 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 ---
 ## I’ve been trying to look for some kind of map to see where the rooms/ blocks are but can’t find anything!
 
-![Floors 1 and 2](../../assets/amhQA1.jpg)
+![Floors 1 and 2](../../master/assets/amhQA1.jpg)
 
-![Floors 3 and 4](../../assets/amhQA2.jpg)
+![Floors 3 and 4](../../master/assets/amhQA2.jpg)
 
-![Floors 5, 6 and 2](../../assets/amhQA3.jpg)
+![Floors 5, 6 and 7](../../master/assets/amhQA3.jpg)
 
 If you take an image of the building, the blocks go left to right, with A and B to the left of the entrance and C, D and E to the right. A block is boys only and d block is girls only, all the floors are single gender. There is one large and 2 smaller common rooms in hall. Also, there's no link between the blocks on all the floors, you have to go up/down to the main concourse and travel across. Floor 3 is the main concourse, both the outdoor entrances, common rooms, dining rooms, study rooms etc all lead on from there. The common room is separated from the wings so you need to come down to 3 and go back up the stairs, same for the dining room.
 
