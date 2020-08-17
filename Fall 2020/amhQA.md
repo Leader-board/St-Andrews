@@ -3,7 +3,7 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 ---
 **IMPORTANT**
 
-**Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly!**
+**Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly! Also you should consider joining the group at https://www.facebook.com/groups/AMH2020**
 
 ---
 ## I’ve been trying to look for some kind of map to see where the rooms/ blocks are but can’t find anything!
