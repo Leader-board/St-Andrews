@@ -6,6 +6,14 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly! Also you should consider joining the group at https://www.facebook.com/groups/AMH2020**
 
 ---
+## Does anyone know whether the households in hall will be of 8 or 16?
+
+I think they’ll be 8 people.
+
+## Will bedding be provided during quarantine, I haven’t ordered anything as I am still a bit unsure what room I will be quarantining in? 
+
+Bedding will not be provided. If you don't know what room you'll be quarantining in but you know your term time room, you can still order bedding with that room number or order bedding to the building with your name, without specifying the room number.
+
 ## I’ve been trying to look for some kind of map to see where the rooms/ blocks are but can’t find anything!
 
 ![Floors 1 and 2](../../master/assets/amhQA1.jpg)
