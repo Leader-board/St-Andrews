@@ -7,7 +7,7 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 
 **This is meant to help students with a centralised location where they can easily search for questions they may have and avoid having to ask the same thing. However, it appears that some people are concerned about the existience of this page due to potentially incorrect answers. As noted above, there is a very clear disclaimer that this is meant to be helpful advice because things can quickly change and there could be incorrect answers. That being said, if you really want this page taken down or want to discuss this further, please contact me at dm282@st-andrews.ac.uk, because then I can try to help, for instance applying restrictions so that only university students can see it.**
 
-**Found any errors? Please contact me at dm282@st-andrews.ac.uk or submit a pull request (on GitHub if you know how that works) so that I can fix it. Thanks!**
+**Found any errors? Please contact me at dm282@st-andrews.ac.uk or submit a pull request (on GitHub if you know how that works) so that I can fix it or contact me on Facebook if you can find me (the Facebook group will know). Thanks!**
 
 ---
 ## Does anyone know whether the households in hall will be of 8 or 16?
