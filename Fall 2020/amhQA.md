@@ -5,6 +5,8 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 
 **Please treat this as helpful advice. There is no guarantee that the information below would be accurate especially given that things can change very fast. No one here can be held responsible if something goes wrong - if you have doubts please contact the committee directly! Also you should consider joining the group at https://www.facebook.com/groups/AMH2020**
 
+**This is meant to help students with a centralised location where they can easily search for questions they may have and avoid having to ask the same thing. However, it appears that some people are concerned about the existience of this page due to potentially incorrect answers. As noted above, there is a very clear disclaimer that this is meant to be helpful advice because things can quickly change and there could be incorrect answers. That being said, if you really want this page taken down or want to discuss this further, please contact me at dm282@st-andrews.ac.uk, because then I can try to help, for instance applying restrictions so that only university students can see it.**
+
 ---
 ## Does anyone know whether the households in hall will be of 8 or 16?
 
