@@ -10,6 +10,10 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 **Found any errors? Please contact me at dm282@st-andrews.ac.uk or submit a pull request (on GitHub if you know how that works) so that I can fix it or contact me on Facebook if you can find me (the Facebook group will know). Thanks!**
 
 ---
+## Where can you find the quarantine application?
+
+You can download it from here: https://www.st-andrews.ac.uk/accommodation/arrivals/.
+
 ## Does anyone know whether the households in hall will be of 8 or 16?
 
 I think they’ll be 8 people.
