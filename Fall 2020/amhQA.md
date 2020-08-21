@@ -9,6 +9,8 @@ Some random Q/A from the Andrew Melville 2020-2021 Facebook chat that may be hel
 
 **Found any errors? Please contact me at dm282@st-andrews.ac.uk or submit a pull request (on GitHub if you know how that works) so that I can fix it or contact me on Facebook if you can find me (the Facebook group will know). Thanks!**
 
+**Also, I'm seeing an unusually high number of clones in this repository. That isn't the way to download this as a PDF (the source here is Markdown) - if you want it that way please let me know and I can do it for you.**
+
 ---
 ## Are we allowed ottoman for storage etc?
 
