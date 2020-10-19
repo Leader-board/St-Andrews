@@ -1,5 +1,7 @@
 import java.io.*;
 import java.util.*;
+
+import javax.lang.model.util.ElementScanner6;
 public class App {
     static int num = 0;
     // check for files we do NOT want to merge
@@ -34,6 +36,18 @@ public class App {
             {
                 return Long.valueOf(f1.lastModified()).compareTo(f2.lastModified());
             } });
+        if (module.contains("CS1002") || module.contains("CS2003"))
+        {
+            // use old method, due to rotation problems
+            exec_temp.add("pdfunite");
+        }
+        else
+        {
+        // allow full bookmark features
+        exec_temp.add("java");
+        exec_temp.add("-jar");
+        exec_temp.add("pdfmerger-1.2.2-jar-with-dependencies.jar"); // as it has full bookmark support
+        }
         for (File s: merger)
         {
             if (s.isDirectory())
@@ -44,8 +58,7 @@ public class App {
             exec_temp.add(s.getAbsolutePath());
             }
         }
-        exec_temp.add(0,"pdfunite");
-        exec_temp.add("collated/"+ module + ".pdf");
+        exec_temp.add("../collated/"+ module + ".pdf");
        //  Process process = Runtime.getRuntime().exec(exec_cmd);
         String[] exec_arr = new String[exec_temp.size()];
         for (int i = 0; i < exec_temp.size(); i++)
@@ -94,8 +107,8 @@ public class App {
             
         }
            // now copy to designated directory on OneDrive
-        Process p2 = Runtime.getRuntime().exec(new String[]{"rclone", "copy", "collated", "standrews:CSpdfcollated"});
-        int t = p2.waitFor(); // make sure that it executes    
+       Process p2 = Runtime.getRuntime().exec(new String[]{"rclone", "copy", "../collated", "standrews:CSpdfcollated"});
+       int t = p2.waitFor(); // make sure that it executes    
     }
     public static void main(String[] args) throws Exception {
         getfolder();
