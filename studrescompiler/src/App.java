@@ -4,6 +4,7 @@ import java.util.*;
 import javax.lang.model.util.ElementScanner6;
 public class App {
     static int num = 0;
+    static String loc = "/tmp/collated";
     // check for files we do NOT want to merge
     public static boolean pdflogic(String path, String module)
     {
@@ -23,6 +24,10 @@ public class App {
         {
             return false; // because slides and print version are equivalent, but latter is easier to read
         }
+        else if (module.equals("CS4105") && path.contains("Bonjour"))
+        {
+            return false; // does not appear to be well-formatted and hence causes issues
+        }
         return true; // OK
     }
     static ArrayList<File> merger; // list of files in that module
@@ -36,7 +41,7 @@ public class App {
             {
                 return Long.valueOf(f1.lastModified()).compareTo(f2.lastModified());
             } });
-        if (module.contains("CS1002") || module.contains("CS2003"))
+        if (module.contains("CS1002") || module.contains("CS2003") || module.contains("CS4402") || module.contains("CS5030") || module.contains("CS5010") || module.contains("CS4201"))
         {
             // use old method, due to rotation problems
             exec_temp.add("pdfunite");
@@ -58,7 +63,7 @@ public class App {
             exec_temp.add(s.getAbsolutePath());
             }
         }
-        exec_temp.add("../collated/"+ module + ".pdf");
+        exec_temp.add(loc + "/" + module + ".pdf");
        //  Process process = Runtime.getRuntime().exec(exec_cmd);
         String[] exec_arr = new String[exec_temp.size()];
         for (int i = 0; i < exec_temp.size(); i++)
@@ -86,7 +91,6 @@ public class App {
             else
             merger.add(t);
         }
-        
     }
     public static void getfolder() throws InterruptedException, IOException
     {
@@ -104,10 +108,9 @@ public class App {
                 //TODO: handle exception
                 System.out.println("attempted string = " + s + " and exception details " + e);
             }
-            
         }
            // now copy to designated directory on OneDrive
-       Process p2 = Runtime.getRuntime().exec(new String[]{"rclone", "copy", "../collated", "standrews:CSpdfcollated"});
+       Process p2 = Runtime.getRuntime().exec(new String[]{"rclone", "copy", loc, "standrews:CSpdfcollated"});
        int t = p2.waitFor(); // make sure that it executes    
     }
     public static void main(String[] args) throws Exception {
