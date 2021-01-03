@@ -8,4 +8,4 @@ Please let me know if there are bugs - using GitHub or Discord or email.
 
 **Looking to download Panopto videos?** This may be helpful: https://github.com/tc80/panopto-scraper
 
-This is a beta: V1.0 Beta 3. Some lecture collations can be weird or have incorrect ordering - let me know in that case.
+This is a beta: V1.0 Beta 4. Some lecture collations can be weird or have incorrect ordering - let me know in that case.
