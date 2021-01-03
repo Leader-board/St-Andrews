@@ -31,6 +31,9 @@ public class App {
         return true; // OK
     }
     static ArrayList<File> merger; // list of files in that module
+    // term 1 modules; do not continue processing for term 2
+    static List<String> term1 = Arrays.asList("CS1002", "CS1005", "CS2001", "CS2003", "CS2101", "CS3050", "CS3099", "CS3104", "CS3105", "CS3301", "CS3302", "CS4052", "CS4105", "CS4201", "CS4202", "CS4203", "CS4302", "CS4402", "CS5001", "CS5002", "CS5010", "CS5030", "CS5031", "CS5032", "CS5040", "CS5042", "IS5102", "IS5103");
+    static boolean isTermTwo = true; // flip switch for seocnd term
     public static void mergepdfs(String module) throws IOException, InterruptedException
     {
         // does the core merging routine
@@ -99,14 +102,20 @@ public class App {
         names = f.list();
         for (String s: names)
         {
-            if (!s.contains("_"))
-            try {
-                merger = new ArrayList<>();
-                getpdfs("/cs/studres/" + s + "/Lectures", s);
-                mergepdfs(s);
-            } catch (Exception e) {
-                //TODO: handle exception
-                System.out.println("attempted string = " + s + " and exception details " + e);
+            if (!s.contains("_")) {
+                if (isTermTwo && term1.contains(s))
+                {
+                    // we do not want to reprocess them
+                    continue;
+                }
+                try {
+                    merger = new ArrayList<>();
+                    getpdfs("/cs/studres/" + s + "/Lectures", s);
+                    mergepdfs(s);
+                } catch (Exception e) {
+                    //TODO: handle exception
+                    System.out.println("attempted string = " + s + " and exception details " + e);
+                }
             }
         }
            // now copy to designated directory on OneDrive
