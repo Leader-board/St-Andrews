@@ -4,6 +4,8 @@ This is an automated script that collates the PDF of every lecture from the Stud
 
 Currently the collation is available at https://tinyurl.com/y2cd8dm2. St Andrews login is required.
 
+> These resources are intended to be used ONLY by CS students at St Andrews. It's not my responsibility if you misuse it. 
+
 Please let me know if there are bugs - using GitHub or Discord or email. 
 
 **Looking to download Panopto videos?** This may be helpful: https://github.com/tc80/panopto-scraper
