@@ -9,4 +9,4 @@ This section contains the St Andrews graduation videos (for the June 2019 - 2021
 
 Please check [here](https://www.st-andrews.ac.uk/graduation/graduation-ceremonies/) to find out students studying which subject graduate at a particular time.
 
-https://universityofstandrews907-my.sharepoint.com/:f:/g/personal/dm282_st-andrews_ac_uk/EkkfLRrf4A5KhQVe7Np_5SUBV9rgJijECUKtqEwAmBFEsg?e=2xfix2 has the links to all the diets (June 2019, December 2019 and July 2020)
+https://universityofstandrews907-my.sharepoint.com/:f:/g/personal/dm282_st-andrews_ac_uk/EkkfLRrf4A5KhQVe7Np_5SUBV9rgJijECUKtqEwAmBFEsg?e=2xfix2 has the links to all the diets.
