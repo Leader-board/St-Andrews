@@ -1,5 +1,5 @@
 # St Andrews graduation videos
-This section contains the St Andrews graduation videos (for the June, December 2019 and July 2020 diets) that I have saved so that you can watch it again or download it later (as St Andrews takes down the stream shortly after).
+This section contains the St Andrews graduation videos (for the June 2019 - 2021 diets) that I have saved so that you can watch it again or download it later (as St Andrews takes down the stream shortly after).
 
 ##  Important notes
 
