@@ -2,9 +2,7 @@
 
 This is an automated script that collates the PDF of every lecture from the Student Resources Server (https://studres.cs.st-andrews.ac.uk/) and uploads it to a designated directory on OneDrive. This should be helpful for revision. Most modules have full bookmark support enabled so you can jump from/to any lecture (the rest have rotation issues).
 
-Currently the collation is available at https://tinyurl.com/y2cd8dm2. St Andrews login is required.
-
-> These resources are intended to be used ONLY by CS students at St Andrews. It's not my responsibility if you misuse it. 
+Just download the source files and run it on your host directory. 
 
 Please let me know if there are bugs - using GitHub or Discord or email. 
 
