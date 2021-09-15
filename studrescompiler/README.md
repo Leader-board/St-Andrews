@@ -1,6 +1,6 @@
 # Studres PDF Compiler
 
-This is an automated script that collates the PDF of every lecture from the Student Resources Server (https://studres.cs.st-andrews.ac.uk/) and uploads it to a designated directory on OneDrive. This should be helpful for revision. Most modules have full bookmark support enabled so you can jump from/to any lecture (the rest have rotation issues).
+This is an automated script that collates the PDF of every lecture from the Student Resources Server (https://studres.cs.st-andrews.ac.uk/) and uploads it to a designated directory (that can be configured - you may need to use ``rclone`` first) on OneDrive. This should be helpful for revision. Most modules have full bookmark support enabled so you can jump from/to any lecture (the rest have rotation issues).
 
 Just download the source files and run it on your host directory. 
 
